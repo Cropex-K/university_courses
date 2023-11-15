@@ -1,0 +1,8 @@
+day,temperature,weather
+Monday,22,sun
+Tuesday,25,sun
+Wednesday,20,rain
+Thursday,18,cloudy
+Friday,19,sun
+Saturday,21,cloudy
+Sunday,17,rain
